@@ -1,6 +1,6 @@
 # Behavioural Influences on UK Property Investment Decisions
 
-### Python replication materials for a single-authored JPIF practice briefing (in preparation)
+### Python replication materials 
 
 This repository documents the analytical method for a survey study of UK residential property investment decision-making. The analysis considers whether behavioural and normative influences are associated with investors' stated rationales for property investment.
 
@@ -61,4 +61,4 @@ jpif-property-investment-method/
 
 Bouslama, Z. (manuscript in preparation). *Financially Rational, Behaviourally Influenced: Why Property Investors Follow the Crowd*. Journal of Property Investment & Finance, Practice Briefing (planned submission).
 
-Please update this citation if the manuscript is accepted or published. Do not describe the manuscript as published before then.
+
