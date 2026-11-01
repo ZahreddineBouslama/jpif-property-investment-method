@@ -1,0 +1,14 @@
+# Raw survey data and spreadsheet extracts
+/data/raw/*
+!/data/raw/.gitkeep
+*.xlsx
+*.xls
+*.sav
+*.csv
+# Locally generated outputs
+/outputs/tables/*
+!/outputs/tables/.gitkeep
+# Python
+__pycache__/
+*.py[cod]
+.venv/
